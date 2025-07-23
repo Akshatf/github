@@ -33,7 +33,7 @@ h1 {
     text-align: center;
     text-transform:uppercase;
     padding-top: 20px;
-    color: #112D4E;
+    color: orange;
 }
 .tab-container{
     width: 90%;
@@ -44,7 +44,7 @@ h1 {
     justify-content: space-between;
 }
 #akshat{
-    color: aqua;
+    color: yellow;
 }
 .tab{
     cursor: pointer;
